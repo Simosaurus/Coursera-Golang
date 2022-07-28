@@ -1,0 +1,1 @@
+This repo contains the assessments for the Coursera course 'Getting Started with Golang'
